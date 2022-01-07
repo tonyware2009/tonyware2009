@@ -1,14 +1,14 @@
-### Hi there 👋 i am Tony! 
-i recently got out of the military after eight years in service.
-Im currently a student at codeworks in Boise Idaho learning to become a developer.
+### Hi there 👋 I am Tony! 
+I recently got out of the military after eight years in service.
+I'm currently a student at codeworks in Boise, Idaho learning to become a Developer.
 
-thing to know of me:
+Things to know about me:
 
-i enjoy the outdoors like hiking or camping
+I enjoy the outdoors like hiking or camping.
 
-i enjoy family time.
+I enjoy family time.
 
-i like playing video games like halo, elder scrolls, survival games.
+I like playing video games like halo, elder scrolls, survival games.
 
 
 
