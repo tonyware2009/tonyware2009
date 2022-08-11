@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Tony! 
 I recently got out of the military after eight years in service.
-I'm currently a student at codeworks in Boise, Idaho learning to become a Developer.
+Im a self taught programmer and cureently still learning.
+I’m currently working on a game in the Unity engine.
+I’m currently learning Python
 
 Things to know about me:
 
