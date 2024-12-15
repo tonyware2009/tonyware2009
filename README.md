@@ -1,16 +1,16 @@
 ### Hi there 👋 I am Tony! 
-I recently got out of the military after eight years in service.
-Im a self taught programmer and cureently still learning.
-I’m currently working on a game in the Unity engine.
-I’m currently learning Python
+I am teaching myself to program and i really enjoy my struggles
+I’m currently working on a game in the UE5 5.5.
+I’m currently learning Python, and C
 
 Things to know about me:
+im currently studying my degree in Cybersecurity and information assurance.
+I currently Hold several certifications for IT/Cyber these include the Base A+, NET+, SEC+, (CEH) Certified Ethical Hacker, Splunk.
+i am currently working on my certification for SQL and CYSA+
 
-I enjoy the outdoors like hiking or camping.
+I enjoy the outdoors like hiking, camping and fishing i love to go shooting.
+I enjoy spending time with my family in my sparetime as well as play videos games which at this point is just age of empires 4 and survival games.
 
-I enjoy family time.
-
-I like playing video games like halo, elder scrolls, survival games.
 
 
 
