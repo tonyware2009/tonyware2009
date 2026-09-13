@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Tony! 
 I am teaching myself to program and i really enjoy my struggles
-I’m currently working on a game in the UE5 5.5.
-I’m currently learning Python, and C
+I’m currently working on a Web page called Cup o' Joe
+I’m currently learning Python,
 
 Things to know about me:
 im currently studying my degree in Cybersecurity and information assurance.
 I currently Hold several certifications for IT/Cyber these include the Base A+, NET+, SEC+, (CEH) Certified Ethical Hacker, Splunk.
-i am currently working on my certification for SQL and CYSA+
+i am currently working on my certification for CISSP and LPIC 2
 
 I enjoy the outdoors like hiking, camping and fishing i love to go shooting.
 I enjoy spending time with my family in my sparetime as well as play videos games which at this point is just age of empires 4 and survival games.
