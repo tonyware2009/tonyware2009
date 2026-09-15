@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Tony! 
 I am teaching myself to program and i really enjoy my struggles
 I’m currently working on a Web page called Cup o' Joe
-I’m currently learning Python,
+I’m currently learning Python but i have been messing around with some C++
 
 Things to know about me:
 im currently studying my degree in Cybersecurity and information assurance.
